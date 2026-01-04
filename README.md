@@ -1,106 +1,126 @@
 <!-- =============================== -->
-
-<!--  ULTIMATE GITHUB PROFILE README -->
-
-<!--  Style: Modern / Animated / SVG -->
-
+<!-- ULTIMATE GITHUB PROFILE README -->
+<!-- Style: Modern / Animated / SVG -->
+<!-- Theme: Dark (tokyonight / GitHub dark) -->
 <!-- =============================== -->
 
-<!-- HERO SECTION -->
-
+<!-- HERO SECTION (KEEP) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Duy%20Quang&fontSize=42&fontAlignY=35&desc=Golang%20Backend%20Developer%20%7C%20Scalable%20Systems&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Duy%20Quang&fontSize=42&fontAlignY=35&desc=Golang%20Backend%20Developer%20%7C%20Scalable%20Systems&descAlignY=55&animation=fadeIn" alt="banner" />
 </p>
 
 <!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+with+Go;Microservices+%26+Distributed+Systems;Clean+Architecture+%7C+Performance+Focused;Always+Learning" alt="typing" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Backend+Developer+with+Go;Microservices+%26+Distributed+Systems;Clean+Architecture+%7C+Performance+Focused;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://komarev.com/ghpvc/?username=dquang0504&style=for-the-badge&color=36BCF7" alt="Profile views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 What I Build
 
-* Backend-focused developer specializing in **Go (Golang)**
-* Strong interest in **scalable systems, microservices, caching, and payments**
-* Comfortable designing **production-ready APIs** with clean architecture
-* Experience integrating **AI microservices** into real-world systems
+Backend-leaning fullstack developer specializing in **Go (Golang)** and **production-grade system design**.
 
-> *"Code should be readable, scalable, and boring in production."*
+I focus on building services that are **reliable, observable, and boring in production**—microservices, caching, event-driven flows, and payment-friendly architectures.
+
+- 🔭 Building: SaaS platforms, e-commerce systems
+- 🧠 Interests: distributed systems, caching, async pipelines, payments
+- 🌱 Learning: advanced system design & distributed architectures
+- 💡 Open to: junior / fresher backend roles (remote)
+- 📫 Contact: **williamdang0404@gmail.com**
+
+> *“Code should be readable, scalable, and boring in production.”*
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack (Badges)
+
+<!-- Keep badges (requested). Redesigned layout: grouped + dark background. -->
 
 ### 🧩 Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,typescript,sql" />
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,sql" alt="languages" />
 </p>
 
 ### ⚙️ Backend & APIs
-
 <p>
-  <img src="https://skillicons.dev/icons?i=gin,flask,nodejs" />
+  <img src="https://skillicons.dev/icons?i=gin,flask,nodejs" alt="backend" />
 </p>
 
 ### 🗄 Databases & Caching
-
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql" alt="data" />
 </p>
 
 ### ☁️ DevOps & Cloud
-
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,linux" alt="devops" />
 </p>
 
 ### 🤖 AI / ML
-
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="ai" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
+
+### 🔐 MyESI — SaaS Risk, Compliance & Vulnerability Platform
+**Multi-tenant security platform** that automates SBOM ingestion, vulnerability analysis, and compliance scoring.
+
+**Stack**: `FastAPI` `Python` `SQLAlchemy` `PostgreSQL` `Kafka` `Redis` `Golang` `Fiber` `Kubernetes` `SSE` `React` `TypeScript` `Docker`
+
+- Async pipelines with FastAPI + SQLAlchemy
+- Kafka-based workflows + SSE streaming
+- PDF/HTML reporting and org-level insights
+- Hardened tenant isolation across the stack
+
+---
 
 ### 🍔 GoodFood — Backend System (Go)
+Scalable backend for an online food ordering platform.
 
-> Scalable backend for an online food ordering platform
+- JWT authentication & RBAC
+- Redis caching & realtime updates
+- Payment integration (VNPAY / PayPal)
+- Dockerized & CI-ready
 
-* JWT authentication & RBAC
-* Redis caching & WebSocket realtime updates
-* Payment integration (VNPAY / PayPal)
-* Dockerized & CI-ready
-
-🔗 Repo: [https://github.com/dquang0504/GoodFood-BE](https://github.com/dquang0504/GoodFood-BE)
+Repo: https://github.com/dquang0504/GoodFood-BE
 
 ---
 
 ### 🧠 GoodFood — AI Microservice
+Content moderation & sentiment analysis service.
 
-> Content moderation & sentiment analysis service
+- Toxicity & NSFW detection
+- HuggingFace Transformers
+- Flask REST API
+- Independent microservice architecture
 
-* Toxicity & NSFW detection
-* HuggingFace Transformers
-* Flask REST API
-* Independent microservice architecture
-
-🔗 Repo: [https://github.com/dquang0504/GoodFood-Microservice](https://github.com/dquang0504/GoodFood-Microservice)
+Repo: https://github.com/dquang0504/GoodFood-Microservice
 
 ---
 
 ### 🍱 GoodFood — Frontend
+User-facing web app for the GoodFood ecosystem.
 
-> User-facing web app for the GoodFood ecosystem
+- React + TypeScript
+- API-driven UI
 
-* React + TypeScript
-* API-driven UI
+Repo: https://github.com/dquang0504/GoodFood-FE
 
-🔗 Repo: [https://github.com/dquang0504/GoodFood-FE](https://github.com/dquang0504/GoodFood-FE)
+---
+
+### 💼 Portfolio Website
+Personal portfolio showcase with modern animations and an AI chat assistant.
+
+**Stack**: `React` `TypeScript` `Framer Motion` `Node.js` `Vercel`
+
+Live: https://portfolio-showcase-william.vercel.app/
 
 ---
 
@@ -109,67 +129,70 @@
 ```text
 [ Client ]
     |
-    v
 [ API Gateway ]
     |
-    +--> Auth Service (Go)
-    +--> Order Service (Go)
-    +--> Redis Cache
-    +--> AI Moderation Service (Python)
-    +--> PostgreSQL
++--> Auth Service (Go)
++--> Order / Core Services (Go)
++--> Redis Cache
++--> AI Moderation Service (Python)
++--> PostgreSQL
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (Dark)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dquang0504&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dquang0504&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dquang0504&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dquang0504&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dquang0504&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dquang0504&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dquang0504&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Animation)
+## 🏆 Trophies (Keep)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dquang0504&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 🐍 Contribution Snake (Keep)
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/dquang0504/dquang0504/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+## 🌍 Connect
+
+<p align="center">
+  <a href="mailto:williamdang0404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/duy-quang-dang-8a668b294/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/dquang0504">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## 🎯 Career Goals
+## 🎯 Direction
 
-* Backend / Go Developer roles
-* Working on **high-scale distributed systems**
-* Building products used by real users
-
----
+- Backend / Go developer roles
+- High-scale, distributed systems
+- Building products used by real users
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=22" alt="footer" />
 </p>
 
 <!-- END -->
