@@ -140,31 +140,31 @@ Live: https://portfolio-showcase-william.vercel.app/
 
 ---
 
-## 📊 GitHub Analytics (Dark)
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dquang0504&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dquang0504&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dquang0504&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dquang0504&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dquang0504&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
----
-
-## 🏆 Trophies (Keep)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dquang0504&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://streak-stats.demolab.com?user=dquang0504&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Keep)
+## 🏆 Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dquang0504/dquang0504/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dquang0504&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dquang0504/dquang0504/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
 
 ---
