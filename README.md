@@ -31,7 +31,11 @@ Backend-leaning fullstack developer specializing in **Golang**, **system design*
 ---
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,typescript,sql,gin,flask,nodejs,postgres,redis,mysql,kafka,docker,kubernetes,githubactions,aws,linux,tensorflow,pytorch" alt="tech" />
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,flask,nodejs,postgres,redis,mysql,kafka,docker,kubernetes,githubactions,aws,linux,tensorflow,pytorch" alt="tech" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gin Framework" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 ---
