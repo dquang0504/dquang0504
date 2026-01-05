@@ -60,7 +60,10 @@ Backend-leaning fullstack developer specializing in **Golang**, **system design*
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=dquang0504&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=dquang0504&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+    />
   </a>
 </p>
 
