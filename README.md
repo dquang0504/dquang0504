@@ -65,7 +65,10 @@ Backend-leaning fullstack developer specializing in **Golang**, **system design*
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dquang0504&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img
+    src="https://github-profile-trophy-fork-two.vercel.app/?username=dquang0504&theme=tokyonight&no-frame=true&row=1&column=6"
+    alt="GitHub trophies"
+  />
 </p>
 
 <p align="center">
